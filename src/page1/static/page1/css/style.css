@@ -1,0 +1,5 @@
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: wheat;
+    cursor: pointer;
+
+}
